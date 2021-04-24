@@ -14,6 +14,7 @@ My area of expertise lies in Web Development.
 [![DEEPALI-SUK's](https://github-readme-stats.vercel.app/api?username=DEEPALI-SUK&show_icons=true&theme=synthwave)](https://github.com/DEEPALI-SUK)
 
 <hr>
+
 ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPALI-SUK&layout=compact&show_icons=true&theme=synthwave&langs_count=10)](https://github.com/DEEPALI-SUK)
