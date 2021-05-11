@@ -7,13 +7,11 @@ My area of expertise lies in Web Development.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Web Development
 - 📫 How to reach me: Linkedin - [Deepali Sukhija](https://www.linkedin.com/in/deepali-sukhija-1a63071bb/)
-<hr>
 
 ## ✍ My Work
 
 [![DEEPALI-SUK's](https://github-readme-stats.vercel.app/api?username=DEEPALI-SUK&show_icons=true&theme=synthwave)](https://github.com/DEEPALI-SUK)
 
-<hr>
 
 ## 📚 My Skills
 
